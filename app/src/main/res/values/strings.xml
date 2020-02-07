@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CandidateProject</string>
+    <string name="aps_hint_edt_input">Input pokemon name here</string>
+    <string name="aps_search">SEARCH</string>
+
+    <string name="utils_done">ตกลง</string>
+    <string name="utils_nocontent_network">ไม่สามารถใช้งานได้เนื่องจากไม่มีการเชื่อมต่ออินเตอร์เน็ต</string>
+    <string name="utils_nocontent">ไม่สามารถเชื่อมต่อได้</string>
+    <string name="utils_nocontent_ro_time">ไม่สามารถเชื่อมต่อได้หรือหมดเวลาการเชื่อมต่อกรุณารอและทำรายการใหม่</string>
+    <string name="iet_empty_list">ไม่มีรายการข้อมูล</string>
+    <string name="bc_search">Search</string>
+    <string name="atvt_height">Height</string>
+    <string name="atvt_pd_weight">Weight</string>
+    <string name="atvt_pd_type">Type</string>
+    <string name="atvt_pd_image_pokemon">Image Pokemon</string>
+</resources>
